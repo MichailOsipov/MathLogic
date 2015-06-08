@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.1)  7 JUN 2015 23:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.1)  8 JUN 2015 20:11
 entering extended mode
-**безназвания-1.tex
-("G:\Users\Michail\Desktop\trying tex\безназвания-1.tex"
+**second.tex
+("G:\Users\Michail\Desktop\trying tex\second.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -601,7 +601,7 @@ Proof Tree (bussproofs) style macros. Version 1.1.
 \htRRRbox=\dimen134
 \htAbox=\dimen135
 \htCbox=\dimen136
-) ("G:\Users\Michail\Desktop\trying tex\безназвания-1.aux")
+) ("G:\Users\Michail\Desktop\trying tex\second.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
@@ -654,22 +654,22 @@ LaTeX Font Info:    ... okay on input line 15.
 [1
 
 {G:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-("G:\Users\Michail\Desktop\trying tex\безназвания-1.aux") ) 
+("G:\Users\Michail\Desktop\trying tex\second.aux") ) 
 Here is how much of TeX's memory you used:
  2831 strings out of 493921
- 31496 string characters out of 3154495
- 96310 words of memory out of 3000000
+ 31316 string characters out of 3154495
+ 97310 words of memory out of 3000000
  6110 multiletter control sequences out of 15000+200000
  7852 words of font info for 27 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,32p,286b,127s stack positions out of 5000i,500n,10000p,200000b,50000s
- <G:\User
-s\Michail\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
-><H:/miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><H:/miktex/fonts/type1/pu
-blic/amsfonts/cm/cmmi8.pfb><H:/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<H:/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><H:/miktex/fonts/type1/pub
-lic/amsfonts/cm/cmsy8.pfb>
-Output written on безназвания-1.pdf (2 pages, 59399 bytes).
+ 27i,5n,32p,268b,127s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <G:\Users\Michail\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk><H:/miktex/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><H:/miktex/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><H:/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><H:/miktex/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><H:/miktex/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb>
+Output written on second.pdf (2 pages, 59487 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
